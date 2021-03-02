@@ -35,3 +35,4 @@ A Special Request created as a referendum for the rank status of someone within 
 * Representatives must maintain good standing within their Department and the Corporation, removal from their department they are representing means an automatic removal from the Board of Advisors, unless through special case allowed by the Class-X Overwatch.
 * Representatives must maintain professionalism within proposals.
 * Representatives must issue a show an opinion (Aye or Nay) on a minimum of 1 out of every 2 global votes, else risking dismissal from the Board of Advisors.
+* Representatives must not coerce, insist, or otherwise force other Representatives to vote in a particular way on any motion or proposal, threatening rank or exclusion of activities included.
