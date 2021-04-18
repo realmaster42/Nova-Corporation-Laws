@@ -1,41 +1,33 @@
-The Class - A is the highest rank available in the Corporation's hierarchy before reaching an administrative level of much higher responsibility.
+## The Class - A Act of March, 2020
+The rank of Class - A is the highest non-administrative rank of the Nova Corporation. Personnel ranking Class - A are held to a higher standard and scrutiny compared to lower ranking personnel.
 
-As such, Class - A isn't obtained the same way as Class - D, Class - C and Class - B is.
+### Membership
+A personnel ranking Class - B maybe be eligible for Class - A for a multiple ways, listed below:
+- Promotion approved by the Class - X Overwatch
+- Promotion granted by the Administrator, typically as an honor rank for development
 
-Class - As obtain the unique permission of issuing site-wide announcements on Nova Corporation sites and locations. As such, it is a rank that comes with some responsibility.
+### Applications
+Personnel ranking Class - A has the ability to read and approve pending applications for Test Subjects for the Class - D rank. Personnel ranking Class - A are required to properly read said application and process such without bias.
 
-## Requirement  
+### Announcement Command
+For personnel ranking Class - A and above, the Announcement Command ("**:a**") has been granted for Research Area - 11 "Glacier". They are not to abuse this for nefarious purposes and not to issue a substantial amount of announcements. Formant for the announcement command being ":a **Location** **Announcement**", with valid Locations listed below:
+- NS: The Nuclear Shelter
+- EA: The Entity Area
+- Encampment: The Main Encampment
+- FoB: The Forward Operating Base
+- PowerPlant: The Power Plant
+- TSZ: The Test Subject Zone
+- nil: Globally Announcement Across all Sites 
 
-In order to be a Class - A, one or more of the following conditions must be met:  
- **-** Promotion allowed by the Administrator  
- **-** Honor rank achieved due to development work (only attributed by the Administrator)  
- **-** Approved by the Overwatch  
+Valid Announcements are listed below:
+- ThreatLevelIncrease: Increase of General threat in an area
+- HighThreatLevel: Large Increase of General threat in an area
+- Nuke: Nuclear Threat Announcement
+- Breach: Entity Containment Breach
+- CafeteriaOpen: Cafeteria Opening
+- CafeteriaClose: Cafeteria Closing
 
-## Commands  
-
-In order to trigger an announcement in Research Area - 11, Class - As must run the following command:  
-**:a** Location **Announcement**  
-
-**The following locations are available:**  
-**-** NS (Nuclear Shelter)  
-**-** EA (Entity Area)  
-**-** Encampment (Main Encampment)  
-**-** FoB (Security Corps Forwards Operation Base)  
-**-** PowerPlant (Power Plant)  
-**-** TSZ (Test Subject Zone)  
-
-**The following announcements are available:**  
-**-** Default (unused)  
-**-** ThreatLevelIncrease (increase of threat level in a location)  
-**-** HighThreatLevel (increase of threat level in a location and evacuation request)  
-**-** Nuke (nuclear message - can be used for drills)  
-**-** NormalThreatLevel (decrease of threat level in a location)  
-**-** Breach (entity breached into an unknown location)  
-**-** CafeteriaOpen (cafeteria opening)  
-**-** CafeteriaClose (cafeteria closing)  
-
-An example of an announcement command would be:  
-**:a** EA **ThreatLevelIncrease**  
-
-In order to do site wide announcements, you must use **nil** as the location, e.g.:  
-**:a** nil **Nuke**
+### Law History
+- March 2020: Introduced into Corporaton Law
+- June 2020: Addition of announcement regulations
+- February 2021: Formalization after transfer to github & Addition of applications regulations
